@@ -1,0 +1,6 @@
+config terminal
+hostname isadminswitch
+
+end
+
+write
